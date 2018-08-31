@@ -18,6 +18,9 @@
     <ClCompile Include="knn.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="handWritingRecognition.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="..\include\EasyMat.h">
@@ -25,6 +28,9 @@
     </ClInclude>
     <ClInclude Include="..\include\EasyVec.h">
       <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="knn.h">
+      <Filter>Source Files</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
